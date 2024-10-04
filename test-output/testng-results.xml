@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-04T19:17:22 IST" name="Default suite" finished-at="2024-10-04T19:19:29 IST" duration-ms="127742">
+  <suite started-at="2024-10-04T20:04:34 IST" name="Default suite" finished-at="2024-10-04T20:04:44 IST" duration-ms="10663">
     <groups>
     </groups>
-    <test started-at="2024-10-04T19:17:22 IST" name="Default test" finished-at="2024-10-04T19:19:29 IST" duration-ms="127742">
-      <class name="com.nithin.testLinks.FindBrokenlinks">
-        <test-method is-config="true" signature="init()[pri:0, instance:com.nithin.testLinks.FindBrokenlinks@4c402120]" started-at="2024-10-04T19:17:22 IST" name="init" finished-at="2024-10-04T19:17:36 IST" duration-ms="13950" status="PASS">
+    <test started-at="2024-10-04T20:04:34 IST" name="Default test" finished-at="2024-10-04T20:04:44 IST" duration-ms="10663">
+      <class name="com.nithin.testLinks.ExtractWebPagePart">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.nithin.testLinks.ExtractWebPagePart@40a4337a]" started-at="2024-10-04T20:04:34 IST" name="init" finished-at="2024-10-04T20:04:43 IST" duration-ms="9346" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method signature="findBrokenLinks()[pri:0, instance:com.nithin.testLinks.FindBrokenlinks@4c402120]" started-at="2024-10-04T19:17:36 IST" name="findBrokenLinks" finished-at="2024-10-04T19:19:29 IST" duration-ms="113726" status="PASS">
+        <test-method signature="extractElementTest()[pri:0, instance:com.nithin.testLinks.ExtractWebPagePart@40a4337a]" started-at="2024-10-04T20:04:43 IST" name="extractElementTest" finished-at="2024-10-04T20:04:44 IST" duration-ms="720" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- findBrokenLinks -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nithin.testLinks.FindBrokenlinks@4c402120]" started-at="2024-10-04T19:19:29 IST" name="tearDown" finished-at="2024-10-04T19:19:29 IST" duration-ms="3" status="PASS">
+        </test-method> <!-- extractElementTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nithin.testLinks.ExtractWebPagePart@40a4337a]" started-at="2024-10-04T20:04:44 IST" name="tearDown" finished-at="2024-10-04T20:04:44 IST" duration-ms="522" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.nithin.testLinks.FindBrokenlinks -->
+      </class> <!-- com.nithin.testLinks.ExtractWebPagePart -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
