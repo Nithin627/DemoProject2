@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-04T18:13:36 IST" name="Default suite" finished-at="2024-10-04T18:16:01 IST" duration-ms="145614">
+    <groups>
+    </groups>
+    <test started-at="2024-10-04T18:13:36 IST" name="Default test" finished-at="2024-10-04T18:16:01 IST" duration-ms="145614">
+      <class name="com.nithin.testLinks.FindBrokenlinks$FindBrokenLinks">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.nithin.testLinks.FindBrokenlinks$FindBrokenLinks@327514f]" started-at="2024-10-04T18:13:36 IST" name="init" finished-at="2024-10-04T18:13:45 IST" duration-ms="8989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="findBrokenLinks()[pri:0, instance:com.nithin.testLinks.FindBrokenlinks$FindBrokenLinks@327514f]" started-at="2024-10-04T18:13:45 IST" name="findBrokenLinks" finished-at="2024-10-04T18:16:01 IST" duration-ms="136567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findBrokenLinks -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nithin.testLinks.FindBrokenlinks$FindBrokenLinks@327514f]" started-at="2024-10-04T18:16:01 IST" name="tearDown" finished-at="2024-10-04T18:16:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nithin.testLinks.FindBrokenlinks$FindBrokenLinks -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
