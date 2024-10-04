@@ -22,6 +22,8 @@ public class VerifyLinkStatusCode {
 				if (connection.getResponseCode() == 200) {
 
 				} else {
+					System.out.println(
+							link + " : " + connection.getResponseMessage() + " : " + connection.HTTP_NOT_FOUND);
 					invalidLinkCount++;
 				}
 
